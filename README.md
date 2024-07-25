@@ -1,5 +1,5 @@
 # Metin Editörü
 
 
-Kullanıcı tarafından çzelliştirilebilir kullanımı basit "Metin Editörü v0.1"
+Kullanıcı tarafından özelliştirilebilir kullanımı basit "Metin Editörü v0.1"
  
