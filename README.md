@@ -1,0 +1,2 @@
+# MetinEditor
+Metin Editörü
